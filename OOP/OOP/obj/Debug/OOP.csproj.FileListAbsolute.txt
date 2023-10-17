@@ -1,0 +1,7 @@
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\bin\Debug\OOP.exe.config
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\bin\Debug\OOP.exe
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\bin\Debug\OOP.pdb
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\obj\Debug\OOP.exe
+H:\Sulis cuccok\Felnottkezpes\c#\osztalyokdolgozat\OOP\OOP\obj\Debug\OOP.pdb
